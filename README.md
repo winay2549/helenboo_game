@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎮 Helenboo Survivor
 
 **Helenboo Survivor** คือเกมเว็บเบราว์เซอร์แนว Roguelite Survivor (สไตล์ Vampire Survivors) ในธีมภาพแบบ **Simple Shape** (เรขาคณิตคลีนๆ น่ารัก สดใส) พัฒนาด้วย **HTML5 Canvas, CSS3 และ JavaScript แบบ Single File (ไฟล์เดียวจบ)** ไม่ต้องติดตั้ง dependencies หรือ build tools ใดๆ สามารถเปิดเล่นได้ทันที และนำไป Deploy ขึ้น **GitHub Pages** ได้ฟรีใน 1 นาที!
@@ -108,3 +109,6 @@ git push -u origin main
 - เปลี่ยนสีและรูปทรงของตัวละครในฟังก์ชัน `render()` และ `drawPreview()`
 - ปรับแต่งพลังโจมตี/ความเร็วของอาวุธในวัตถุ `UPGRADES`
 - ปรับสมดุลศัตรูในคลาส `Enemy`
+=======
+# helenboo_game
+>>>>>>> 21be39642a1da78ff63d33481abcef3723d1085d
